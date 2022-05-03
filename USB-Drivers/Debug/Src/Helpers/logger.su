@@ -1,0 +1,8 @@
+core_cm4.h:2064:26:ITM_SendChar	16	static,ignoring_inline_asm
+logger.c:11:5:_write	32	static
+logger.c:20:27:_get_log_level_string	16	static
+logger.c:34:13:_log	24	static
+logger.c:44:6:log_error	16	static
+logger.c:52:6:log_info	16	static
+logger.c:60:6:log_debug	16	static
+logger.c:73:6:log_debug_array	32	static
